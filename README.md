@@ -1,4 +1,7 @@
-# Hugging Face Datasets
+# Hugging Face Datasets  
 
-LLM-Perf Leaderboard :  
-https://huggingface.co/spaces/optimum/llm-perf-leaderboard
+Dataset of LLM models with their parameters (B) / Open LLM Score (%)  
+
+Sources :  
+LLM-Perf Leaderboard  
+https://huggingface.co/spaces/optimum/llm-perf-leaderboard  
